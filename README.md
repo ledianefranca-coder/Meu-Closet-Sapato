@@ -22,3 +22,7 @@ A chave publicável pode ser usada no navegador; a proteção dos dados é garan
 ## Tecnologias
 
 React, TypeScript, Vite, React Router e Supabase.
+
+## Publicação
+
+O workflow `Publicar aplicação` gera e publica automaticamente a versão pronta no GitHub Pages após cada atualização da branch `main`.
